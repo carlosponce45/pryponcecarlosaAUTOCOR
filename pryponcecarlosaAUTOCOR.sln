@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryponcecarlosaAUTOCOR", "pryponcecarlosaAUTOCOR\pryponcecarlosaAUTOCOR.csproj", "{CBB42BEB-FEBE-475F-AB44-D13F08AF2D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB42BEB-FEBE-475F-AB44-D13F08AF2D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB42BEB-FEBE-475F-AB44-D13F08AF2D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB42BEB-FEBE-475F-AB44-D13F08AF2D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB42BEB-FEBE-475F-AB44-D13F08AF2D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ACA2099-386F-4670-BBED-B5E9365C3E44}
+	EndGlobalSection
+EndGlobal
